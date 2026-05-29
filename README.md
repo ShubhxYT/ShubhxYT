@@ -86,32 +86,9 @@
   <img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,githubactions&perline=5" />
 </p>
 
-<table align="center">
-<tr><td>
-
-```
-┌──────────────────────────────────────┐
-│           ☁️  Cloudflare              │
-│   shubhsomani.tech · happynestfarm.in│
-└──────────────┬───────────────────────┘
-               │ FRP Tunnel
-┌──────────────▼───────────────────────┐
-│         🖥️  Proxmox Hypervisor       │
-│  ┌─────────┐  ┌─────────┐  ┌──────┐ │
-│  │ Docker  │  │ Coolify │  │ NAS  │ │
-│  │ LXC     │  │ LXC     │  │ VM   │ │
-│  └─────────┘  └─────────┘  └──────┘ │
-│  10+ services  auto-deploy  TrueNAS  │
-└──────────────────────────────────────┘
-               │
-┌──────────────▼───────────────────────┐
-│           📡 Tailscale Mesh          │
-│     All nodes · Zero-trust VPN       │
-└──────────────────────────────────────┘
-```
-
-</td></tr>
-</table>
+<p align="center">
+  <img src="assets/homelab-architecture.png" alt="Homelab Architecture" width="800" />
+</p>
 
 <details>
 <summary><b>🔧 services I self-host</b></summary>
