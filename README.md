@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://shubhsomani.tech"><img src="https://img.shields.io/badge/Portfolio-shubhsomani.tech-58A6FF?style=for-the-badge&logo=svelte&logoColor=white"></a>
   <a href="https://x.com/ShubhSomaniYT"><img src="https://img.shields.io/badge/X-@ShubhSomaniYT-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="mailto:shubh.2430010493@muj.manipal.edu"><img src="https://img.shields.io/badge/Email-shubh@muj.manipal.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:shubhsomani098@gmail.com"><img src="https://img.shields.io/badge/Email-shubhsomani098@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <br>
