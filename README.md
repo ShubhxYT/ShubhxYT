@@ -43,8 +43,8 @@
 
 <p align="center">
   <a href="https://github.com/ShubhxYT">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhxYT&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhxYT&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhxYT&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhxYT&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
   </a>
 </p>
 
@@ -84,16 +84,16 @@
 
 <p align="center">
   <a href="https://github.com/ShubhxYT/Production-RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhxYT&repo=Production-RAG&theme=github_dark&hide_border=true&description_lines_count=2" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhxYT&repo=Production-RAG&theme=github_dark&hide_border=true&description_lines_count=2" />
   </a>
   <a href="https://github.com/ShubhxYT/Hiring-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhxYT&repo=Hiring-Assistant&theme=github_dark&hide_border=true&description_lines_count=2" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhxYT&repo=Hiring-Assistant&theme=github_dark&hide_border=true&description_lines_count=2" />
   </a>
   <a href="https://github.com/ShubhxYT/Youtube-To-Posts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhxYT&repo=Youtube-To-Posts&theme=github_dark&hide_border=true&description_lines_count=2" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhxYT&repo=Youtube-To-Posts&theme=github_dark&hide_border=true&description_lines_count=2" />
   </a>
   <a href="https://github.com/ShubhxYT/Social-to-Lead-Agentic-Workflow-ServiceHive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhxYT&repo=Social-to-Lead-Agentic-Workflow-ServiceHive&theme=github_dark&hide_border=true&description_lines_count=2" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhxYT&repo=Social-to-Lead-Agentic-Workflow-ServiceHive&theme=github_dark&hide_border=true&description_lines_count=2" />
   </a>
 </p>
 
