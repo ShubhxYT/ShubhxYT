@@ -110,18 +110,6 @@
 
 ---
 
-### 📝 Latest Blog Posts
-
-<p align="center">
-  <a href="https://shubhsomani.tech">
-    <img src="https://img.shields.io/badge/Read%20on-shubhsomani.tech-58A6FF?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
----
-
 ### 🎯 Currently
 
 - 🤖 Building **autonomous AI agents** with Hermes for homelab management
