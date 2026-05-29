@@ -80,33 +80,6 @@
 
 ---
 
-### 🔥 Highlight Projects
-
-<p align="center">
-  <a href="https://github.com/ShubhxYT/Production-RAG">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhxYT&repo=Production-RAG&theme=github_dark&hide_border=true&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/ShubhxYT/Hiring-Assistant">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhxYT&repo=Hiring-Assistant&theme=github_dark&hide_border=true&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/ShubhxYT/Youtube-To-Posts">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhxYT&repo=Youtube-To-Posts&theme=github_dark&hide_border=true&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/ShubhxYT/Social-to-Lead-Agentic-Workflow-ServiceHive">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhxYT&repo=Social-to-Lead-Agentic-Workflow-ServiceHive&theme=github_dark&hide_border=true&description_lines_count=2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShubhxYT?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%2022%20repos-%E2%86%92-58A6FF?style=for-the-badge" />
-  </a>
-</p>
-
-<br>
-
----
-
 ### 🏠 Homelab & Infrastructure
 
 <p align="center">
